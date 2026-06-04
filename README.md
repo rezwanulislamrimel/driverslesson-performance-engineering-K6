@@ -235,8 +235,8 @@ Since server-side metrics were not available, findings are based solely on clien
 
 ## Author
 
-**Rezwanul Islam**
+**Rezwanul Rimel**
 
-SQA Engineer
+SQA Engineer 
 
 Performance Testing | API Testing | Manual Testing | Test Automation
