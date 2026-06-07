@@ -591,7 +591,7 @@ Since server-side metrics were unavailable, all findings are based solely on **c
 
 <div align="center">
 
-⭐ **If this project helped you, consider giving it a star!** ⭐
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" />
 
